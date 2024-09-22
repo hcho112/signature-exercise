@@ -1,4 +1,14 @@
-## ECDSA Node
+## Blockchain ETH signature exercise
+
+This is forked from original exercise from the course https://university.alchemy.com/course/ethereum
+
+Week 1 Recap that to do with trying out hash -> signature -> verify flow from FE to BE
+
+Use private keys from 'test account details' file to try it out.
+
+
+
+### ECDSA Node
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
 
